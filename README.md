@@ -70,15 +70,17 @@ A Python-based music management project with JSON data handling.
 ---
 
 ## GitHub Statistics / إحصائيات غيت هاب
-
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hadini456&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadini456&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hadini456&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 <div align="center">
