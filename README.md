@@ -1,13 +1,18 @@
-
 <div align="center">
 
-# ARTHUR
+# ARTHUR / آرثر
 
 ### Independent Developer | Software Engineering | Game Development
+### مطور مستقل | هندسة البرمجيات | تطوير الألعاب
 
 **I don't just want to use technology. I want to understand how it works and build with it.**
+**أنا لا أريد استخدام التكنولوجيا فحسب، بل أريد فهم طريقة عملها والبناء بها.**
 
 <br/>
+
+<img src="https://media.giphy.com/media/vK1p6B4hV6MhGNC2co/giphy.gif" width="120" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7B68EE&label=PROFILE+VIEWS" />
 
@@ -22,27 +27,19 @@
 
 ---
 
-## About Me
+## About Me / نبذة عني
 
-I'm Arthur, an independent developer interested in software engineering, game development, cybersecurity, and technology.
+I'm Arthur, an independent developer interested in software engineering, game development, and technology.  
+أنا آرثر، مطور مستقل مهتم بهندسة البرمجيات، تطوير الألعاب، والتكنولوجيا.
 
-I enjoy understanding systems from the inside, experimenting with ideas, and building things from scratch.
+I enjoy understanding systems from the inside, experimenting with ideas, and building things from scratch.  
+أستمتع بفهم الأنظمة من الداخل، التجربة بالأفكار، وبناء الأشياء من الصفر.
 
-I prefer practical learning through real projects, solving problems, and exploring how things work rather than relying entirely on ready-made solutions.
+---
 
-I'm also interested in entrepreneurship and the long-term possibilities of building technology companies and independent software products.
+## Technologies & Tools / التقنيات والأدوات
 
-## What I'm Interested In
-
-- **Software Development:** Building applications, tools, and practical software.
-- **Game Development:** Creating 2D games and exploring game architecture.
-- **Cybersecurity:** Understanding systems, security concepts, and how vulnerabilities work.
-- **Systems & Technology:** Exploring how software and technologies operate beneath the surface.
-- **Entrepreneurship:** Building independent products and eventually establishing a technology company.
-
-## Technologies & Tools
-
-**Programming Languages**
+**Programming Languages / لغات البرمجة**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
@@ -50,7 +47,7 @@ I'm also interested in entrepreneurship and the long-term possibilities of build
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Development Environment**
+**Environment & Tools / البيئة والأدوات**
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![MonoGame](https://img.shields.io/badge/MonoGame-E73C00?style=flat-square)
@@ -58,46 +55,27 @@ I'm also interested in entrepreneurship and the long-term possibilities of build
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-## Current Focus
+---
 
-- Developing a 2D RPG using C# and MonoGame.
-- Improving my Python programming and automation skills.
-- Exploring game architecture and low-level development concepts.
-- Learning more about cybersecurity and system internals.
-- Building independent software projects.
+## Selected Projects / مشاريع مختارة
 
-## Selected Projects
+### 🚀 RPG2D
+A personal 2D game development project built with C# and MonoGame.  
+مشروع تطوير ألعاب ثنائية الأبعاد مبني بـ C# و MonoGame.
 
-### RPG2D
-A personal 2D game development project built with C# and MonoGame.
-
-Exploring player systems, movement, world maps, game architecture, and building game mechanics from the ground up.
-
-### Personal Music Platform
-A Python-based music management project featuring:
-
-- Playlist management.
-- Favorites.
-- Search and filtering.
-- Album covers and metadata.
-- JSON-based data handling.
-
-### Python Experiments
-Small practical projects focused on automation, application logic, and solving everyday problems through code.
+### 🎵 Personal Music Platform
+A Python-based music management project with JSON data handling.  
+مشروع إدارة موسيقى بلغة بايثون يتعامل مع البيانات عبر JSON.
 
 ---
 
-## GitHub Statistics
+## GitHub Statistics / إحصائيات غيت هاب
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -106,6 +84,7 @@ Small practical projects focused on automation, application logic, and solving e
 <div align="center">
 
 ### Build to understand. Understand to create.
+### ابن لكي تفهم. افهم لكي تبتكر.
 
 **Arthur © 2026**
 
