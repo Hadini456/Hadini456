@@ -5,9 +5,7 @@
 ### Independent Developer | Software Engineering | Game Development
 ### مطور مستقل | هندسة البرمجيات | تطوير الألعاب
 
-**I don't just want to use technology. I want to understand how it works and build with it.**
-**أنا لا أريد استخدام التكنولوجيا فحسب، بل أريد فهم طريقة عملها والبناء بها.**
-
+**I don't just want to use technology. I want to understand how it works and build with it.
 <br/>
 
 <img src="https://media.giphy.com/media/vK1p6B4hV6MhGNC2co/giphy.gif" width="120" />
