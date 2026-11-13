@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=7B68EE&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Hadini456&style=flat-square&color=7B68EE&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
